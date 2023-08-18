@@ -26,7 +26,7 @@ const Video = () => {
               </div>
 
               <div className="flex flex justify-center">
-                <a href="https://github.com/ArtMoonServices?tab=repositories" target="_blank" rel="nofollow noreferrer">
+                <a href="https://drive.google.com/drive/folders/1M79YemcQIUnhdfdM3UZ99EA3MCgKS0rm" target="_blank" rel="nofollow noreferrer">
                   <button className="rounded-xl bg-gradient-to-br from-[#FFC837] to-[#FF6108] px-3 py-2 xs:px-5 xs:py-3 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50">
                     Ver Templates
                   </button>

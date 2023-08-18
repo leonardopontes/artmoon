@@ -64,7 +64,7 @@ const AboutSectionOne = () => {
               </div>
 
               <div className="flex flex justify-center">
-                <a href="https://pt.wix.com/website/templates" target="_blank" rel="nofollow noreferrer">
+                <a href="https://pt.wix.com/website/templates/html/online-store" target="_blank" rel="nofollow noreferrer">
                   <button className="ml-0 xl:ml-14 rounded-xl bg-gradient-to-br from-[#FFC837] to-[#FF6108] px-5 py-3 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50">
                     WiX Templates
                   </button>
