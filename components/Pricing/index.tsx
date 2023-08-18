@@ -33,7 +33,7 @@ const Pricing = () => {
         <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
           <PricingBox
             packageName="Templates"
-            price= "200"
+            price= "300"
             subtitle="Uma coleção incrível de templates a seu gosto. Adaptamos a sua Marca."
           >
             <OfferList text="Design Moderno" status="active" />
@@ -45,7 +45,7 @@ const Pricing = () => {
           </PricingBox>
           <PricingBox
             packageName="Yampi"
-            price= "250"
+            price= "400"
             subtitle="Lance sua Loja Virtual e venda muito mais. O Essencial para sua Loja!"
           >
             <OfferList text="Design Básico" status="active" />
@@ -57,7 +57,7 @@ const Pricing = () => {
           </PricingBox>
           <PricingBox
             packageName="WiX"
-            price= "300"
+            price= "500"
             subtitle="Destaque sua Loja com Layouts e funcionalidades mais avançadas!"
           >
             <OfferList text="Design Sofisticado" status="active" />

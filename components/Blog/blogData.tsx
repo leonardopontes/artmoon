@@ -12,7 +12,7 @@ const blogData: Blog[] = [
       image: "/images/blog/perfil.png",
       designation: "Founder ArtMoon",
     },
-    tags: ["creative"],
+    tags: ["Ecommerce"],
     publishDate: "2023",
   },
   {
@@ -26,7 +26,7 @@ const blogData: Blog[] = [
       image: "/images/blog/perfil.png",
       designation: "Founder ArtMoon",
     },
-    tags: ["computer"],
+    tags: ["Sites"],
     publishDate: "2023",
   },
   {
@@ -40,7 +40,7 @@ const blogData: Blog[] = [
       image: "/images/blog/perfil.png",
       designation: "Founder ArtMoon",
     },
-    tags: ["design"],
+    tags: ["Dicas"],
     publishDate: "2023",
   },
 ];
