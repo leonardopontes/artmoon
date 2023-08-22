@@ -14,11 +14,11 @@ const Hero = () => {
                 className="wow fadeInUp mx-auto max-w-[800px] text-center"
                 data-wow-delay=".2s"
               >
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#4af7da] to-[#f08cfd] sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight animate-fade-down">
+                <h1 className="mb-5 text-3xl font-bold leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#4af7da] to-[#f08cfd] sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                 Leve seu negócio rumo ao sucesso com ArtMoon
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Oferecemos serviços de criação de sites. +100 modelos sofisticados a seu gosto, acelerando o Desenvolvimento e entrega. Também oferecemos serviços de criação de Lojas virtuais completas. Expanda seu Negócio conosco!
+                Oferecemos serviços de criação de Ecommerces e muito mais. +100 modelos de sites a seu gosto. Expanda seu Negócio conosco, Será um Prazer nosso!
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
