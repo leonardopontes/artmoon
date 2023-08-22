@@ -55,7 +55,7 @@ const AboutSectionOne = () => {
                 data-wow-delay=".2s"
               >
                 <Image
-                  src="/images/about/e1.4.png"
+                  src="/images/about/t2.png"
                   alt="about-image"
                   fill
                   className="mx-auto max-w-full lg:mr-0"
@@ -65,7 +65,7 @@ const AboutSectionOne = () => {
 
               <div className="flex flex justify-center">
                 <a href="https://pt.wix.com/website/templates/html/online-store" target="_blank" rel="nofollow noreferrer">
-                  <button className="ml-0 xl:ml-14 rounded-xl bg-gradient-to-br from-[#FFC837] to-[#FF6108] px-5 py-3 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50">
+                  <button className="ml-0 mt-5 xl:ml-14 rounded-xl bg-gradient-to-br from-[#a408ff] to-[#e208ff] px-5 py-3 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50">
                     WiX Templates
                   </button>
                 </a>  

@@ -26,7 +26,7 @@ const PricingBox = (props: {
         <p className="mb-7 text-base text-body-color">{subtitle}</p>
         <div className="mb-8 border-b border-body-color border-opacity-10 pb-8 dark:border-white dark:border-opacity-10">
           <Link href="/contact">
-            <button className="flex w-full items-center justify-center rounded-xl bg-gradient-to-br from-[#FDFC47] to-[#24FE41] py-3 px-5 text-base font-semibold text-black transition duration-200 hover:shadow-lg hover:shadow-[#FDFC47]/50">
+            <button className="flex w-full items-center justify-center rounded-xl bg-gradient-to-br from-[#4af7da] to-[#4af767] py-3 px-5 text-base font-semibold text-black transition duration-200 hover:shadow-lg hover:shadow-[#FDFC47]/50">
               Contate-nos
             </button>
           </Link>  

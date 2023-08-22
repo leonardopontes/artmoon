@@ -7,11 +7,11 @@ const AboutSectionTwo = () => {
         <div className="-mx-4 flex flex-wrap items-center">
           <div className="w-full px-4 lg:w-1/2">
             <div
-              className="wow fadeInUp relative mx-auto mb-12 aspect-[25/24] w-full h-56 xs:w-full xs:h-80 text-center lg:m-0"
+              className="wow fadeInUp relative mx-auto mb-12 aspect-[25/24] w-full h-full text-center lg:m-0"
               data-wow-delay=".15s"
             >
               <Image
-                src="/images/about/e2.5.png"
+                src="/images/about/t3.png"
                 alt="about image"
                 fill
               />
@@ -19,7 +19,7 @@ const AboutSectionTwo = () => {
 
             <div className="flex flex justify-center">
               <a href="https://www.yampi.com.br/loja-virtual/temas" target="_blank" rel="nofollow noreferrer">
-                <button className="-mt-10 lg:mt-4 rounded-xl bg-gradient-to-br from-[#FFC837] to-[#FF6108] px-5 py-3 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50">
+                <button className="-mt-10 lg:mt-4 rounded-xl bg-gradient-to-br from-[#a408ff] to-[#e208ff] px-5 py-3 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50">
                   Yampi Templates
                 </button>
               </a>  

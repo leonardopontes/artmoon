@@ -18,16 +18,16 @@ const Video = () => {
       <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
             <div
-              className="wow fadeInUp mx-auto max-w-[870px] overflow-hidden rounded-md"
+              className="wow fadeInUp mx-auto max-w-[600px] overflow-hidden rounded-md"
               data-wow-delay=".15s"
             >
-              <div className="relative aspect-[77/40] items-center justify-center">
-                <Image src="/images/video/t2.png" alt="video image" fill />
+              <div className="relative aspect-[77/63] items-center justify-center">
+                <Image src="/images/video/t1.png" alt="video image" fill />
               </div>
 
               <div className="flex flex justify-center">
                 <a href="https://drive.google.com/drive/folders/1M79YemcQIUnhdfdM3UZ99EA3MCgKS0rm" target="_blank" rel="nofollow noreferrer">
-                  <button className="rounded-xl bg-gradient-to-br from-[#FFC837] to-[#FF6108] px-3 py-2 xs:px-5 xs:py-3 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50">
+                  <button className="rounded-xl bg-gradient-to-br from-[#a408ff] to-[#e208ff] mt-5 px-3 py-2 xs:px-5 xs:py-3 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50">
                     Ver Templates
                   </button>
                 </a>  

@@ -14,22 +14,22 @@ const Hero = () => {
                 className="wow fadeInUp mx-auto max-w-[800px] text-center"
                 data-wow-delay=".2s"
               >
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-[#8afc9d] sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
+                <h1 className="mb-5 text-3xl font-bold leading-tight text-transparent bg-clip-text bg-gradient-to-r from-[#4af7da] to-[#f08cfd] sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight animate-fade-down">
                 Leve seu negócio rumo ao sucesso com ArtMoon
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Oferecemos serviços de criação de sites com mais de 100 modelos sofisticados a seu gosto, acelerando o processo de Desenvolvimento e entrega. Também oferecemos serviços de criação de Lojas virtuais completas e mais.
+                Oferecemos serviços de criação de sites. +100 modelos sofisticados a seu gosto, acelerando o Desenvolvimento e entrega. Também oferecemos serviços de criação de Lojas virtuais completas. Expanda seu Negócio conosco!
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="/contact"
-                    className="rounded-xl bg-gradient-to-br from-[#FFC837] to-[#FF6108] px-5 py-3 text-black font-semibold transition duration-200 hover:shadow-lg hover:shadow-[#FFC837]/50"
+                    className="rounded-xl bg-gradient-to-br from-[#a408ff] to-[#e208ff] px-5 py-3 text-white font-semibold transition duration-200 hover:shadow-lg hover:shadow-[#a408ff]/50"
                   >
                     Contate-nos
                   </Link>
                   <Link
                     href="/services"
-                    className="rounded-xl bg-gradient-to-br from-[#FF6108] to-[#ff2d08] px-5 py-3 text-black font-semibold transition duration-200 hover:shadow-lg hover:shadow-[#FF6108]/50"
+                    className="rounded-xl bg-gradient-to-br from-[#4af7da] to-[#4af767] px-5 py-3 text-black font-semibold transition duration-200 hover:shadow-lg hover:shadow-[#4af7da]/50"
                   >
                     Templates
                   </Link>
