@@ -28,7 +28,7 @@ const Footer = () => {
                 </p>
                 <div className="flex items-center ml-0 xs:ml-28 sm:ml-48 md:ml-28">
                   <a
-                    href="https://www.facebook.com/lonye.econ" target="_blank" rel="nofollow noreferrer"
+                    href="https://www.facebook.com/leonardo.artmoon" target="_blank" rel="nofollow noreferrer"
                     aria-label="social-link"
                     className="mr-6 ml-0 xs:-ml-2 text-[#CED3F6] hover:text-primary"
                   >
