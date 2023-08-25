@@ -23,13 +23,13 @@ const Hero = () => {
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="/contact"
-                    className="rounded-xl bg-gradient-to-br from-[#a408ff] to-[#e208ff] px-5 py-3 text-white font-semibold transition duration-200 hover:shadow-lg hover:shadow-[#a408ff]/50"
+                    className="rounded-xl bg-gradient-to-br from-[#a408ff] to-[#e208ff] -mt-3 xs:mt-0 px-5 py-3 text-white font-semibold transition duration-200 hover:shadow-lg hover:shadow-[#a408ff]/50"
                   >
                     Contate-nos
                   </Link>
                   <Link
                     href="/services"
-                    className="rounded-xl bg-gradient-to-br from-[#4af7da] to-[#4af767] px-5 py-3 text-black font-semibold transition duration-200 hover:shadow-lg hover:shadow-[#4af7da]/50"
+                    className="rounded-xl bg-gradient-to-br from-[#4af7da] to-[#4af767] -mt-3 xs:mt-0 px-5 py-3 text-black font-semibold transition duration-200 hover:shadow-lg hover:shadow-[#4af7da]/50"
                   >
                     Templates
                   </Link>
